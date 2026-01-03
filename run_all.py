@@ -15,17 +15,17 @@ OUTPUT_CSV = SCRIPT_DIR / "retrievals.csv"
 
 # TODO: Add more use cases and prompts below
 PROMPTS = {
-    "Board game night": [
-        "Berlin Winter Board Game Night 2026",
-        "Berlin Winter Board Game Night January 2026",
-        "Berlin Winter Board Game Night 2026 event details",
-        "community board game night Berlin January 2026",
-        "indoor board game meetup Berlin winter",
-        "Berlin board game night for beginners January",
-        "Are there any non-competitive board game events in Berlin in January 2026?",
-        "Free indoor board game events in Berlin this winter",
-        "Beginner-friendly board game meetups in Berlin",
-        "New community events in Berlin for board game players",
+    "Forearm stand tutorial": [
+        "how to learn a forearm stand",
+        "forearm stand yoga pose step by step",
+        "beginner forearm stand tutorial with wall support",
+        "safe way to practice forearm stand at home",
+        "forearm stand preparation exercises shoulders and core",
+        "yoga inversion tutorials for beginners",
+        "how to balance upside down on forearms",
+        "elbow balance yoga pose tutorial",
+        "beginner-friendly forearm stand guides",
+        "what exercises help prepare for a forearm stand",
     ],
 }
 
