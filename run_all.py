@@ -16,16 +16,16 @@ OUTPUT_CSV = SCRIPT_DIR / "retrievals.csv"
 # TODO: Add more use cases and prompts below
 PROMPTS = {
     "Forearm stand tutorial": [
-        "how to learn a forearm stand",
-        "forearm stand yoga pose step by step",
-        "beginner forearm stand tutorial with wall support",
-        "safe way to practice forearm stand at home",
-        "forearm stand preparation exercises shoulders and core",
-        "yoga inversion tutorials for beginners",
-        "how to balance upside down on forearms",
-        "elbow balance yoga pose tutorial",
-        "beginner-friendly forearm stand guides",
-        "what exercises help prepare for a forearm stand",
+        "How to learn a forearm stand?",
+        "Forearm stand yoga pose step by step",
+        "Beginner forearm stand tutorial with wall support",
+        "Safe way to practice forearm stand at home",
+        "Forearm stand preparation exercises shoulders and core",
+        "Yoga inversion tutorials for beginners",
+        "How to balance upside down on forearms?",
+        "Elbow balance yoga pose tutorial",
+        "Beginner-friendly forearm stand guides",
+        "What exercises help prepare for a forearm stand",
     ],
 }
 
